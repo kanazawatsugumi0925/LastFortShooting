@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8470C599-68C6-5633-FF33-D9184FBC38AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyLifeManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyLifeManager.cs" Line="36" Column="25" />
+      <File FileName="Assets/Scripts/EnemyGenerator.cs" Line="42" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5398503b-3fe3-4613-90f7-6d9844d56a65" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
